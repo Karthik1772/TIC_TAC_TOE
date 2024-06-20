@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:game/first_page.dart';
-import 'first_page.dart';
 void main() {
   runApp(const MyApp());
 }

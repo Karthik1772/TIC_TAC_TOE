@@ -1,6 +1,6 @@
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/material.dart';
-import 'homepage.dart';
+import 'package:game/home_page.dart';
 
 class FirstPage extends StatelessWidget {
   const FirstPage({super.key});
@@ -53,7 +53,7 @@ class FirstPage extends StatelessWidget {
                   onTap: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => const homepage()),
+                      MaterialPageRoute(builder: (context) => const HomePage()),
                     );
                   },
                   child: Card(
