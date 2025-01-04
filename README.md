@@ -1,16 +1,58 @@
-# game
+# Tic-Tac-Toe
 
-A new Flutter project.
+A fully interactive and visually engaging Tic-Tac-Toe game implemented using **Flutter**. This project demonstrates the fundamentals of UI design, state management, and gameplay logic in Flutter. Ideal for two players to compete in a classic 3x3 grid format.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Table of Contents
 
-A few resources to get you started if this is your first Flutter project:
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Gameplay Instructions](#gameplay-instructions)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Two-Player Gameplay**: Engage in a turn-based game between two players.
+- **Interactive UI**: Responsive design for a seamless experience across devices.
+- **Game Logic**: Real-time win/draw detection with visual indicators.
+- **Game Reset**: Reset the board after each game without restarting the app.
+- **No External Dependencies**: Purely built with Dart and Flutter.
+
+---
+
+## Technologies Used
+
+- **Framework**: Flutter
+- **Programming Language**: Dart
+- **IDE Support**: Visual Studio Code, Android Studio
+- **Target Platforms**: Android, iOS, Web
+
+---
+
+## Screenshots
+
+### Home Screen
+![Home Screen](images/home_screen.png)
+
+### Gameplay
+![Gameplay Screen](images/gameplay_screen.png)
+
+> Add appropriate screenshots to showcase the application visually.
+
+---
+
+## Installation
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Karthik1772/TIC_TAC_TOE.git
