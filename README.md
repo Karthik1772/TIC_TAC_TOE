@@ -1,46 +1,86 @@
-# Tic-Tac-Toe
+Here is the corrected version of the `README.md` file with all the instructions combined in one continuous block:
 
-A fully interactive and visually engaging Tic-Tac-Toe game implemented using **Flutter**. This project demonstrates the fundamentals of UI design, state management, and gameplay logic in Flutter. Ideal for two players to compete in a classic 3x3 grid format.
+```markdown
+# TIC_TAC_TOE
 
----
+Welcome to the TIC_TAC_TOE game, a classic implementation of the Tic Tac Toe game using Flutter.
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Gameplay Instructions](#gameplay-instructions)
-- [Project Structure](#project-structure)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
----
+## Introduction
+
+This project is a Flutter-based application that allows users to play the traditional Tic Tac Toe game. It's a simple yet engaging game suitable for all ages.
 
 ## Features
 
-- **Two-Player Gameplay**: Engage in a turn-based game between two players.
-- **Interactive UI**: Responsive design for a seamless experience across devices.
-- **Game Logic**: Real-time win/draw detection with visual indicators.
-- **Game Reset**: Reset the board after each game without restarting the app.
-- **No External Dependencies**: Purely built with Dart and Flutter.
-
----
-
-## Technologies Used
-
-- **Framework**: Flutter
-- **Programming Language**: Dart
-- **IDE Support**: Visual Studio Code, Android Studio
-- **Target Platforms**: Android, iOS, Web
-
----
+- Single-player mode
+- Multi-player mode
+- Interactive user interface
+- Responsive design compatible with multiple platforms
 
 ## Installation
 
-Follow these steps to set up and run the project locally:
+To run this project locally, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Karthik1772/TIC_TAC_TOE.git
+   ```
+
+2. **Navigate to the project directory and install dependencies:**
+
+   ```bash
+   cd TIC_TAC_TOE
+   flutter pub get
+   ```
+
+3. **Run the application:**
+
+   ```bash
+   flutter run
+   ```
+
+## Usage
+
+- **Single-player mode:** Play against the computer.
+- **Multi-player mode:** Play with a friend on the same device.
+
+The game interface is intuitive. Simply tap on the grid to place your mark (X or O) and enjoy the game!
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork the repository.**
+2. **Create a new branch:**
+
+   ```bash
+   git checkout -b feature-name
+   ```
+
+3. **Make your changes and commit them:**
+
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+
+4. **Push to the branch:**
+
+   ```bash
+   git push origin feature-name
+   ```
+
+5. **Open a pull request.**
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
