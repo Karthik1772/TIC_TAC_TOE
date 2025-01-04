@@ -37,18 +37,6 @@ A fully interactive and visually engaging Tic-Tac-Toe game implemented using **F
 
 ---
 
-## Screenshots
-
-### Home Screen
-![Home Screen](images/home_screen.png)
-
-### Gameplay
-![Gameplay Screen](images/gameplay_screen.png)
-
-> Add appropriate screenshots to showcase the application visually.
-
----
-
 ## Installation
 
 Follow these steps to set up and run the project locally:
