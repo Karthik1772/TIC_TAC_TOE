@@ -1,4 +1,4 @@
-package com.example.tic_tac_toe
+package com.example.game
 
 import io.flutter.embedding.android.FlutterActivity
 
