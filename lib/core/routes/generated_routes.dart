@@ -1,5 +1,5 @@
-import 'package:game/features/first%20page/firstPage.dart';
-import 'package:game/features/home%20page/home_page.dart';
+import 'package:XoXo/features/first%20page/firstPage.dart';
+import 'package:XoXo/features/home%20page/home_page.dart';
 import 'package:flutter/material.dart';
 
 class Routes {

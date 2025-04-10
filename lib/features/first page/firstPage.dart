@@ -1,7 +1,7 @@
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/material.dart';
-import 'package:game/core/common/custom_buttons.dart';
-import 'package:game/core/themes/app_colors.dart';
+import 'package:XoXo/core/common/custom_buttons.dart';
+import 'package:XoXo/core/themes/app_colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class FirstPage extends StatelessWidget {

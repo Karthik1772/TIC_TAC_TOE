@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:game/core/themes/app_colors.dart';
+import 'package:XoXo/core/themes/app_colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class HomePage extends StatefulWidget {
@@ -59,6 +59,7 @@ class _HomePageState extends State<HomePage> {
                           child: Text(
                             boardState[index],
                             style: GoogleFonts.poppins(
+                              fontWeight: FontWeight.w600,
                               color:
                                   boardState[index] == 'O'
                                       ? Colors.blue

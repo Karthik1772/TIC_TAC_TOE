@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:game/core/routes/generated_routes.dart';
+import 'package:XoXo/core/routes/generated_routes.dart';
 
 void main() {
   runApp(const MyApp());
