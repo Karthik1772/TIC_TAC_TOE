@@ -46,7 +46,7 @@ class FirstPage extends StatelessWidget {
                     backgroundColor: AppColors.transperent,
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(90),
-                      child: Image.asset('assets/logo.png'),
+                      child: Image.asset('assets/logo1.png'),
                     ),
                   ),
                 ),
